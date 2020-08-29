@@ -186,7 +186,6 @@ html{
     justify-content: center;
     align-items: center;
     padding-bottom: 34px;
-    z-index: -999;
 }
 #contact-box input, 
 #contact-box textarea{
@@ -195,18 +194,15 @@ html{
     padding: 0.5rem;
     border-radius: 9px;
     font-size: 1.1rem;
-    z-index: -999;
 } 
 
 #contact-box form{
     width: 40%;
-    z-index: -999;
 }
 
 #contact-box label{
    font-size: 1.3rem;
    font-family: 'Bree Serif', serif;
-   z-index: -999;
 
 }
 
